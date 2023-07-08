@@ -4,3 +4,4 @@
 - git status
 - git push
 - git log
+- git remote -v
